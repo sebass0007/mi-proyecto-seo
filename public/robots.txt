@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://localhost:3000/api/sitemap
+Sitemap: https://mi-proyecto-seo-sog1.onrender.com/api/sitemap

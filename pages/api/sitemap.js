@@ -1,7 +1,7 @@
 
 import { obtenerPaginas } from "../../lib/db";
 
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://mi-proyecto-seo-sog1.onrender.com";
 
 export default function handler(req, res) {
   try {
